@@ -253,9 +253,9 @@ export default {
             label: "customized",
             options: [
               {
-                label: "Maying",
+                label: "Superules_full",
                 value:
-                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini"
+                  "https://raw.githubusercontent.com/super27034/SUPERules/refs/heads/main/Clash/Superules_full.ini"
               },
               {
                 label: "Ytoo",
