@@ -258,6 +258,16 @@ export default {
                   "https://raw.githubusercontent.com/super27034/SUPERules/refs/heads/main/Clash/Superules_full.ini"
               },
               {
+                label: "Superules_simple",
+                value:
+                  "https://raw.githubusercontent.com/super27034/SUPERules/refs/heads/main/Clash/Superules_simple.ini"
+              },
+              {
+                label: "Superules_phone",
+                value:
+                  "https://raw.githubusercontent.com/super27034/SUPERules/refs/heads/main/Clash/Superules_phone.ini"
+              },
+              {
                 label: "ACL4SSR_Online_AdblockPlus 更多去广告(与Github同步)",
                 value:
                     "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
