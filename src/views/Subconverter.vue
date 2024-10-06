@@ -232,7 +232,7 @@ export default {
           Trojan: "trojan",
           Surge3: "surge&ver=3",
         },
-        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
+        backendOptions: [{ value: "http://subconverterback.frp.super27034.top:25500/sub?" }],
         remoteConfig: [
           {
             label: "universal",
