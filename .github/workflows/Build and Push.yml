@@ -26,4 +26,4 @@ jobs:
         context: .
         platforms: linux/amd64,linux/arm64
         push: true
-        tags: careywong/subweb:latest
+        tags: super27034/subweb:latest
