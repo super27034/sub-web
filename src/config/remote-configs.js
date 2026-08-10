@@ -16,6 +16,9 @@ export const REMOTE_CONFIGS = [
   {
     label: "customized",
     options: [
+      { label: "Superules_full", value: "https://raw.githubusercontent.com/super27034/SUPERules/refs/heads/main/Clash/Superules_full.ini" },
+      { label: "Superules_simple", value: "https://raw.githubusercontent.com/super27034/SUPERules/refs/heads/main/Clash/Superules_simple.ini" },
+      { label: "Superules_phone", value: "https://raw.githubusercontent.com/super27034/SUPERules/refs/heads/main/Clash/Superules_phone.ini" },
       { label: "Maying", value: "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini" },
       { label: "Ytoo", value: "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/ytoo.ini" },
       { label: "FlowerCloud", value: "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/flowercloud.ini" },
